@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Roupas
 
-Este é um **sistema de cadastro** desenvolvido para uma loja de roupas, permitindo que os usuários cadastrem, visualizem, editem, pesquisem e excluam informações sobre os produtos no estoque. O sistema foi projetado com funcionalidades intuitivas e uma interface amigável, utilizando tecnologias modernas para garantir a performance e a escalabilidade do sistema.
+Este é um **sistema de cadastro** desenvolvido para uma loja de roupas, permitindo que os usuários cadastrem, visualizem, editem, pesquisem e excluam informações sobre os produtos no estoque. O sistema foi projetado com funcionalidades intuitivas e uma interface amigável.
 
 ## Funcionalidades
 
@@ -15,8 +15,8 @@ Este é um **sistema de cadastro** desenvolvido para uma loja de roupas, permiti
 - **Frontend:**  
   - **HTML**  
   - **CSS**  
-  - **Bootstrap** (para design responsivo e otimizado)  
-  - **JavaScript** (para interatividade, como o modal de visualização)
+  - **Bootstrap**  
+  - **JavaScript**
 
 - **Backend:**  
   - **PHP**  
@@ -44,4 +44,4 @@ Este é um **sistema de cadastro** desenvolvido para uma loja de roupas, permiti
 
 ## Observações
 
-- **Deleção de Produtos:** Quando um item é deletado, ele não é removido fisic
+- **Preencher as informações de servidor, usuario, senha e nome do banco de dados no arquivo de conexão.
