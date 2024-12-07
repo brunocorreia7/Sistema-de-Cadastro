@@ -6,4 +6,4 @@ Sistema de cadastro para uma loja de roupas, onde é possivel cadastrar a roupa 
 HTML, CSS, Bootstrap, Javascript, PHP e banco de dados MySQL.
 
 # obs
-eu tirei as informações de conexçao com o banco, para funcionar é necessario ter um servidor, e preencher as informações dentro das aspas no arquivo de conexão, que são servidor, usuario, senha e o nome do banco de dados.
+eu tirei as informações de conexão com o banco, para funcionar é necessario ter um servidor, e preencher as informações dentro das aspas no arquivo de conexão, que são servidor, usuario, senha e o nome do banco de dados.
