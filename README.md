@@ -6,9 +6,4 @@ Sistema de cadastro para uma loja de roupas, onde é possivel cadastrar a roupa 
 HTML, CSS, Bootstrap, Javascript, PHP e banco de dados MYsql.
 
 #obs
-eu tirei essas informações, para funcionar é necessario ter um servidor, e preencher essas informações dentro das aspas
-
-$servidor = "";  // é só colocar o nome do servidor (eu tirei)
-$dbusuario = ""; // é só colocar o usuario do banco (eu tirei)
-$dbsenha = ""; // é só colocar s senha do banco (eu tirei)
-$dbname = ""; // é só colocar o nome do banco (eu tirei)
+eu tirei essas informações, para funcionar é necessario ter um servidor, e preencher as informações dentro das aspas no arquivo de conecxão, que são servidor, usuario, senha e o nome do banco de dados.
